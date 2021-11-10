@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-evenly;
     padding: 1.5rem;
+    min-width: 900px;
   }
 
   h1{
@@ -20,6 +21,7 @@
     background-color: rgb(58, 4, 53);;
     font-size: 4rem;
     justify-content: center;
+    min-width: 900px;
   }
   
   footer {
@@ -47,6 +49,7 @@
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 4rem;
+    min-width: 900px;
   }
   
   figure {
