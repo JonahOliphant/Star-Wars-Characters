@@ -12,6 +12,7 @@
     display: flex;
     justify-content: space-evenly;
     padding: 1.5rem;
+    min-width: max-content;
   }
 
   h1{
@@ -20,6 +21,7 @@
     background-color: rgb(58, 4, 53);;
     font-size: 4rem;
     justify-content: center;
+    min-width: max-content;
   }
   
   footer {
